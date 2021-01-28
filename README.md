@@ -1,9 +1,15 @@
 # 지게차말고 개발자
-### 한번쯤 해본 언어 :hammer:
 
-<img src="https://img.icons8.com/material/48/000000/python-file.png"/> <img src="https://img.icons8.com/metro/52/000000/c-plus-plus.png"/> <img src="https://img.icons8.com/material/48/000000/js.png"/> <img src="https://img.icons8.com/material/48/000000/html-5.png"/> <img src="https://img.icons8.com/material/48/000000/jsp.png"/>
+### 수상
+- 2018 전북 기능성게임 페스티벌
+### 자격증
+- **지게차면허**
+- 정보처리기사 (2019)
+- 리눅스마스터 2급 (2020)
+- 컴퓨터활용능력 1급 필기 (2020)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderfulhuman)](https://github.com/wonderfulhuman/github-readme-stats)
+
+[![Tahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderfulhuman)](https://github.com/wonderfulhuman/github-readme-stats)
 
 ![](https://img.shields.io/github/followers/wonderfulhuman?label=taehee&style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonderfulhuman&count_bg=%23001AFF&title_bg=%23FF0000&icon=redux.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
