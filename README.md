@@ -23,4 +23,4 @@
 
 ### :bulb: 관심사
 - 수학
-- 디자인
+- <a href="https://www.youtube.com/user/cmiscm">디자인</a>
