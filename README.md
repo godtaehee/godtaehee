@@ -17,10 +17,4 @@
 
 ### 해보긴 해본것들
 `C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `Jsp` `Spring` `Html` `Css`
-
-
-
-
-[![Tahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderfulhuman)](https://github.com/wonderfulhuman/github-readme-stats)
-
-![](https://img.shields.io/github/followers/wonderfulhuman?label=taehee&style=social)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kt0900)](https://solved.ac/kt0900)
