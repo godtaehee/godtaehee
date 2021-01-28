@@ -1,3 +1,9 @@
+<div align="center">
+  
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?      url=https%3A%2F%2Fgithub.com%2Fwonderfulhuman&count_bg=%23001AFF&title_bg=%23FF0000&icon=redux.svg&icon_color=%23000000&title=hits&edge_flat=false)]  (https://hits.seeyoufarm.com)
+
+</div>
+
 # 지게차말고 개발자
 
 ### 수상
@@ -10,7 +16,7 @@
 - 컴퓨터활용능력 1급 필기 (2020)
 
 ### 해보긴 해본것들
-`C++` `Python` `C` `Java` `JavaScript` `Jsp` `Spring` `html` `css`
+`C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `Jsp` `Spring` `Html` `Css`
 
 
 
@@ -18,4 +24,3 @@
 [![Tahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderfulhuman)](https://github.com/wonderfulhuman/github-readme-stats)
 
 ![](https://img.shields.io/github/followers/wonderfulhuman?label=taehee&style=social)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonderfulhuman&count_bg=%23001AFF&title_bg=%23FF0000&icon=redux.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
