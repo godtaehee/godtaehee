@@ -19,7 +19,7 @@
 - 컴퓨터활용능력 1급 필기 (2020)
 
 ### :page_with_curl:  해보긴 해본것들 
-`C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `JSP` `Spring` `HTML` `CSS`
+`C` `C++` `Java` `Python` <a href="naver.com">`CSharp`</a> `Unity` `JavaScript` `JSP` `Spring` `HTML` `CSS`
 
 ### :bulb: 관심사
 - 수학
