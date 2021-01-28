@@ -21,3 +21,6 @@
 ### :page_with_curl:  해보긴 해본것들 
 `C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `JSP` `Spring` `HTML` `CSS`
 
+### 관심사
+- 수학
+- 
