@@ -18,6 +18,6 @@
 - 리눅스마스터 2급 (2020)
 - 컴퓨터활용능력 1급 필기 (2020)
 
-### 해보긴 해본것들
+### 해보긴 해본것들 :page_with_curl:
 `C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `JSP` `Spring` `HTML` `CSS`
 
