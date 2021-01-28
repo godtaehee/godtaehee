@@ -19,5 +19,5 @@
 - 컴퓨터활용능력 1급 필기 (2020)
 
 ### 해보긴 해본것들
-`C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `Jsp` `Spring` `Html` `Css`
+`C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `JSP` `Spring` `HTML` `CSS`
 
