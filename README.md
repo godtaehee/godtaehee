@@ -9,7 +9,7 @@
 # 지게차말고 개발자 
   
 
-### :tada:         수상 
+### :tada:수상 
 - 2018 전북 기능성게임 페스티벌
 
 ### :clap:  자격증 
@@ -21,6 +21,6 @@
 ### :page_with_curl:  해보긴 해본것들 
 `C` `C++` `Java` `Python` `CSharp` `Unity` `JavaScript` `JSP` `Spring` `HTML` `CSS`
 
-### 관심사
+### :bulb: 관심사
 - 수학
-- 
+- 디자인
