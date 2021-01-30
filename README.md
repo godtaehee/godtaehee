@@ -25,3 +25,18 @@
 ### :bulb: 관심사
 - 수학
 - <a href="https://www.youtube.com/user/cmiscm">디자인</a>
+
+### 일일퀘스트
+
+# DailyQuest
+
+<details><summary>2021.01.30</summary>
+<p>
+  
+:white_check_mark: 교보문고 걷고오기  
+:white_check_mark: 팔굽 100개
+
+</p>
+
+</details>
+
