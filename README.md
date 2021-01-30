@@ -38,10 +38,10 @@ ul{
 
 <details><summary><b>2021</b></summary>
   <dl>
-    <dd><details><summary>2021.01.30</summary>
-:white_check_mark: 교보문고 걷고오기  
-:white_check_mark: 팔굽 100개
-</details></dd>
+    <dt><details><summary>2021.01.30</summary>
+      <dd>:white_check_mark: 교보문고 걷고오기 </dd>
+      <dd>:white_check_mark: 팔굽 100개</dd>
+</details></dt>
   </dl>
 
 
