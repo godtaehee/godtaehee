@@ -28,7 +28,7 @@
 
 ### :heavy_exclamation_mark: 일일퀘스트
 
-<details><summary><h3>2021<h3></summary>
+<details><summary><b>2021</b></summary>
 
   
 <p>
