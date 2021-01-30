@@ -29,15 +29,15 @@
 ### :heavy_exclamation_mark: 일일퀘스트
 
 <details><summary>**2021**</summary>
-<details><summary>2021.01.30</summary>
+
   
 <p>
-  
+  <details><summary>2021.01.30</summary>
 :white_check_mark: 교보문고 걷고오기  
 :white_check_mark: 팔굽 100개
-
+</details>
 </p>
   
-</details>
+
 </details>
 
