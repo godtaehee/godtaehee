@@ -26,9 +26,7 @@
 - 수학
 - <a href="https://www.youtube.com/user/cmiscm">디자인</a>
 
-### 일일퀘스트
-
-# DailyQuest
+### :heavy_exclamation_mark: 일일퀘스트
 
 <details><summary>2021.01.30</summary>
 <p>
