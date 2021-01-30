@@ -29,10 +29,10 @@
 ### :heavy_exclamation_mark: 일일퀘스트
 <details><summary><b>2021</b></summary>
   <dl>
-    <dd><details><summary>2021.01.30</summary>
+    <dd><details><summary>2021.01.30</summary></dd>
       <dd>:facepunch: 교보문고 걷고오기 </dd>
       <dd>:facepunch: 팔굽 100개</dd>
-    </details></dd>
+    </details>
     </dl>
 </details>
 
