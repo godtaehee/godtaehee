@@ -30,8 +30,8 @@
 <details><summary><b>2021</b></summary>
   <dl>
     <dd><details><summary>2021.01.30</summary>
-      <pre>   </pre>:facepunch: 교보문고 걷고오기<br>
-      <pre>    </pre>:facepunch: 팔굽 100개
+      :facepunch: nbsp;nbsp;교보문고 걷고오기<br>
+      :facepunch: 팔굽 100개
     </details></dd>
     </dl>
 </details>
