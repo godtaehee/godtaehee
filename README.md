@@ -27,18 +27,12 @@
 - <a href="https://www.youtube.com/user/cmiscm">디자인</a>
 
 ### :heavy_exclamation_mark: 일일퀘스트
-<dl>
 <details><summary><b>2021</b></summary>
-  
-    <dt><details><summary>2021.01.30</summary></dt>
+  <dl>
+    <dd><details><summary>2021.01.30</summary>
       <dd>:white_check_mark: 교보문고 걷고오기 </dd>
       <dd>:white_check_mark: 팔굽 100개</dd>
-    </details>
-    
-</details>
-</dl>
-  
-
-
+    </details></dd>
+    </dl>
 </details>
 
