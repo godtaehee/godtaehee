@@ -31,7 +31,7 @@
   <dl>
     <dd><details><summary>2021.01.30</summary>
       :facepunch: 교보문고 걷고오기 
-      <dd>:facepunch: 팔굽 100개</dd>
+      :facepunch: 팔굽 100개
     </details></dd>
     </dl>
 </details>
