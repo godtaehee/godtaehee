@@ -30,8 +30,7 @@
 
 <details><summary><b>2021</b></summary>
 
-   &nbsp;&nbsp;
-<details><summary>2021.01.30</summary>
+&nbsp;&nbsp;<details><summary>2021.01.30</summary>
 :white_check_mark: 교보문고 걷고오기  
 :white_check_mark: 팔굽 100개
 </details>
