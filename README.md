@@ -6,6 +6,14 @@
   
 </div>
 
+<style>
+ul{
+   list-style:none;
+   }
+</style>
+
+출처: https://biju.tistory.com/256 [에헤라디야~]
+
 # 지게차말고 개발자 
 
 ### :running: 발걸음
@@ -29,7 +37,7 @@
 ### :heavy_exclamation_mark: 일일퀘스트
 
 <details><summary><b>2021</b></summary>
-  <ul style='list-style: none'>
+  <ul>
     <li><details><summary>2021.01.30</summary>
 :white_check_mark: 교보문고 걷고오기  
 :white_check_mark: 팔굽 100개
