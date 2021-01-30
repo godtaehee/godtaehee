@@ -41,6 +41,7 @@ ul{
     <dt><details><summary>2021.01.30</summary></dt>
       <dd>:white_check_mark: 교보문고 걷고오기 </dd>
       <dd>:white_check_mark: 팔굽 100개</dd>
+    </details>
     </dl>
 </details>
   
