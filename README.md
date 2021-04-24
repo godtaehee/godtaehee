@@ -7,4 +7,4 @@
 - [블로그 만들어보기](https://wonderfulhuman.github.io/Portfolio/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderfulhuman&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godtaehee&show_icons=true&theme=vue)
