@@ -1,4 +1,4 @@
-Hi there, I'm [Taehee!](https://wonderfulhuman.github.io/) :wave:
+<b>Hi there, I'm </b> [Taehee!](https://wonderfulhuman.github.io/) :wave:
 
 :bulb:  `ECMAScript` `HTML5` `CSS` `Java` `Git` `Github`
 
