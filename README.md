@@ -1,4 +1,4 @@
-# Hi there, I'm [Taehee!](https://wonderfulhuman.github.io/) :wave:
+# Hi there, I'm [Taehee!](https://godtaehee.github.io/) :wave:
 
 ### :page_with_curl: Project
 
