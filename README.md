@@ -3,7 +3,7 @@
 ### :page_with_curl: Project
 
 - [스터디 웹페이지](https://wonderfulhuman.github.io/StudyProject/)
-- [매장관리(준비중)](https://naver.com)
+- [매장관리(준비중)](https://github.com/godtaehee/AlbalogServer)
 - [블로그 만들어보기](https://wonderfulhuman.github.io/Portfolio/)
 
 
