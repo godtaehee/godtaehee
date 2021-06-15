@@ -5,6 +5,7 @@
 - [스터디 웹페이지](https://wonderfulhuman.github.io/StudyProject/)
 - [매장관리](https://github.com/AlbalogTeam)
 - [블로그 만들어보기](https://wonderfulhuman.github.io/Portfolio/)
+- notion
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godtaehee&show_icons=true&theme=vue)
