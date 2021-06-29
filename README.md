@@ -1,4 +1,6 @@
-### 🔥 Whether you believe you can do a thing or not, you are right.
+### 🔥 Motto
+
+**Whether you believe you can do a thing or not, you are right.**
 
 <div>
   
