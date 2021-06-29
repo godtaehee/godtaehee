@@ -1,8 +1,8 @@
-# Hi there, I'm [Taehee!](https://godtaehee.github.io/) :wave:
+### 🔥 Whether you believe you can do a thing or not, you are right.
 
-### :page_with_curl: Project
-
-- [노션](https://www.notion.so/ab31d90eaf864627b8d630fffa13ffcd)에 정리해놨습니다!
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godtaehee&show_icons=true&theme=vue)
+<div>
+  
+[![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://www.notion.so/Taehee-Kim-ab31d90eaf864627b8d630fffa13ffcd)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://godtaeheee.github.io/)](https://godtaehee.github.io/)
+  
+</div>
